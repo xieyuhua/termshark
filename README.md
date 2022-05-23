@@ -2,6 +2,8 @@
 [twitter-follow-img]: https://img.shields.io/twitter/follow/termshark.svg?style=social&label=Follow
 
 ```
+ yum install wireshark
+ 
 ./termshark -i  em1
 ```
 
