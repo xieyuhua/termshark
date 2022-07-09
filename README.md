@@ -25,6 +25,12 @@ http模式过滤。如过滤get包，http.request.method=="GET",过滤post包，
 
 ![image](https://user-images.githubusercontent.com/29120060/169751919-0d94f892-ab71-4865-8424-fc950a489599.png)
 
+9.18执行curl 192.168.9.23
+![image](https://user-images.githubusercontent.com/29120060/178100695-0a63f4de-914a-4dd8-b4ff-e577f59a875e.png)
+
+
+
+
 ## License
 
 [![License: MIT](https://img.shields.io/github/license/gcla/termshark.svg?color=yellow)](LICENSE)
